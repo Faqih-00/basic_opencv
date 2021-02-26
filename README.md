@@ -1,2 +1,2 @@
 # basic_opencv
-# basic face detection by using haarcascade 
+ basic face detection by using haarcascade 
